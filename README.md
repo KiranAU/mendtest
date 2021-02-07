@@ -7,8 +7,6 @@ Please install the latest version of Node.js from https://nodejs.org/en/ on your
 
 ### Installing
 
-
-
 Say what the step will be
 
 ```
